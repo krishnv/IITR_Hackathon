@@ -1,5 +1,5 @@
 # IITR_Hackathon
-My code submission for coupons prediction for AI/ML Hackathon held by IIT Roorkee and Times TSW.
+My code submission for purchase prediction for AI/ML Hackathon held by IIT Roorkee and Times TSW.
 
 
 TopicL: Machine Learning.
